@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyExpress</string>
+    <string-array name="Select_Your_Area">
+        <item>DHAKA</item>
+        <item>CHITTAGONG</item>
+        <item>SYLHET</item>
+        <item>RAJSHAHI</item>
+        <item>KHULNA</item>
+        <item>BORISAL</item>
+        <item>RANGPUR</item>
+
+
+    </string-array>
+</resources>
